@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on The AI Engineer</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on The AI Engineer</description>
+    <image>
+      <title>The AI Engineer</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jul 2024 09:06:55 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Value Proposition Statement</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 16 Jul 2024 09:06:55 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Source: https://www.youtube.com/watch?v=q8d9uuO1Cf4
+Value proposition statement: For (target customer segments) Dissatisfied with (existing solution) Due to (key unmet needs) (Venture name) offers a (product category) that provides (key benefits of your solution) For (target customer segments) who is your customer? everyone? a segment? how do you define that segment? Coda Workbook Minimum Viable Segment Always think as your customer
+Ask them
+Define the problem Problems worth solving are usually 4U
+Unworkable Unavoidable Urgent Underserved Unworkable If the consequences are costly or painful, so mut the better.</description>
+    </item>
+  </channel>
+</rss>
