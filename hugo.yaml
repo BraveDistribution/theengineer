@@ -2,3 +2,20 @@ baseURL: https://example.org/
 languageCode: en-us
 title: theEngineer
 theme: ["PaperMod"]
+
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+        enable: true
+params:
+  math: true

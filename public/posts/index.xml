@@ -9,11 +9,20 @@
     <lastBuildDate>Thu, 21 Nov 2024 14:59:44 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>Have we really moved from Variational AutoEncoders?</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Thu, 21 Nov 2024 14:59:44 +0100</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;test&#34;&gt;TEST&lt;/h2&gt;</description>
+      <description>&lt;h1 id=&#34;variational-autoencoders&#34;&gt;Variational AutoEncoders&lt;/h1&gt;
+&lt;h2 id=&#34;cvae&#34;&gt;CVAE&lt;/h2&gt;
+&lt;p&gt;This is an inline \(a^*=x-b^*\) equation.&lt;/p&gt;
+&lt;p&gt;These are block equations:&lt;/p&gt;
+\[a^*=x-b^*\]\[ a^*=x-b^* \]\[
+a^*=x-b^*
+\]&lt;p&gt;These are also block equations:&lt;/p&gt;
+$$a^*=x-b^*$$$$ a^*=x-b^* $$$$
+a^*=x-b^*
+$$</description>
     </item>
   </channel>
 </rss>
